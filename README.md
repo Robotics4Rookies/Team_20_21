@@ -1,22 +1,22 @@
 ![Título IES ALCÁNTARA](/images/ENCABEZADO.png)
 
-## [Web del centro]
+## [IES Alcántara web]
 
-[Web del centro]: http://www.murciaeduca.es/iesalcantara/sitio/
+[IES Alcántara web]: http://www.murciaeduca.es/iesalcantara/sitio/
 
-# Participan en el proyecto:
+# Project Team:
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 
-> Nombre: Ginés Ruiz Bueno
+> Name: Ginés Ruiz Bueno
 > * Twitter: @GRuizBueno
-> * Apasionado por la tecnología y el uso de nuevas metodologías de aprendizaje.
+> * Lover of technology and the use of new learning methodologies.
 
 
 > 
 
-> Nombre: 
+> Name: 
 > * Twitter: 
 > * .
 
