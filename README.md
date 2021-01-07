@@ -4,7 +4,7 @@
 
 [Web del centro]: http://www.murciaeduca.es/iesalcantara/sitio/
 
-# GDMakers que participan en el proyecto
+# Participan en el proyecto:
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
