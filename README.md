@@ -1,4 +1,4 @@
-![Título IES ALCÁNTARA](/images/ENCABEZADO.png)
+![Título IES ALCÁNTARA](/images/LearnToTeach.png)
 
 ## [IES Alcántara web]
 
