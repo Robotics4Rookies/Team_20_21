@@ -20,6 +20,6 @@
 > * Twitter: 
 > * .
 
-## [Acceso a DGReport]
+## [Access to DGReport]
 
-[Acceso a DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
+[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
