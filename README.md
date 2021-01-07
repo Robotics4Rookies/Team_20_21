@@ -14,6 +14,8 @@
 > * Apasionado por la tecnología y el uso de nuevas metodologías de aprendizaje.
 
 
-> Nombre: Ginés Ruiz Bueno
-> Twitter: @GRuizBueno
->
+> 
+
+> Nombre: 
+> * Twitter: 
+> * .
