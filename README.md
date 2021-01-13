@@ -13,12 +13,6 @@
 > * Twitter: 
 > * .
 
-## [Access to DGReport]
-
-[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
-
-
-
 
 
 
@@ -28,10 +22,6 @@
 > * Twitter: 
 > * .
 
-## [Access to DGReport]
-
-[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
-
 
 
 > Ballester
@@ -40,21 +30,12 @@
 > * Twitter: 
 > * .
 
-## [Access to DGReport]
-
-[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
-
-
 
 > Candel
 
 > Name: 
 > * Twitter: 
 > * .
-
-## [Access to DGReport]
-
-[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
 
 
 
@@ -64,10 +45,6 @@
 > * Twitter: 
 > * .
 
-## [Access to DGReport]
-
-[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
-
 
 
 > Díaz
@@ -76,9 +53,13 @@
 > * Twitter: 
 > * .
 
-## [Access to DGReport]
 
-[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
+
+> 
+
+> Name: 
+> * Twitter: 
+> * .
 
 
 
@@ -88,10 +69,6 @@
 > * Twitter: 
 > * .
 
-## [Access to DGReport]
-
-[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
-
 
 
 > 
@@ -100,10 +77,19 @@
 > * Twitter: 
 > * .
 
-## [Access to DGReport]
 
-[Access to DGReport]: https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/DGSpecialist/DGReport.md
+> 
 
+> Name: 
+> * Twitter: 
+> * .
+
+
+> 
+
+> Name: 
+> * Twitter: 
+> * .
 
 
 
