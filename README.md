@@ -93,7 +93,7 @@
 
 
 
-> ![Claudio Gea](/i,ages7CGL.jpeg)
+> ![Claudio Gea](/images/CGL.png)
 
 > Name: Claudio Gea López
 > * Twitter: @claudiio.28
