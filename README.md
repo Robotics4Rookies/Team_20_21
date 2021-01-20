@@ -183,7 +183,7 @@
 
 
 
-> ![Carmen Romera Perez](/images/carmenromera.jpg)
+> ![Carmen Romera Perez](/images/carmenromera.png)
 
 > Name: Romera
 > * Twitter&Instagram:@tellmecarmen
