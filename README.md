@@ -160,11 +160,11 @@
 > * .
 
 
-> 
+>  ![Ginés Ruiz Bueno](/images/PAPG.png)
 
-> Name: Polán
-> * Twitter: 
-> * .
+> Name: Pablo Antonio Polán García
+> * Instagram: peibol_pg
+> * Student and athlete.
 
 
 
