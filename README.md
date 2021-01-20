@@ -198,7 +198,7 @@
 
 
 
->  ![Ginés Ruiz Bueno](/images/IMG_20210120_124728.jpg)
+>  ![Jose María Ruiz González](/images/IMG_20210120_124728.jpg)
 
 > Name: Ruiz G
 > * Twitter: @josemarg_05  instagram: @josemarg_05   tiktok:@joseruizzz05   facebook:Jose Maria Ruiz Gonzalez
