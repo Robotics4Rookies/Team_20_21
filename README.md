@@ -232,7 +232,7 @@
 
 > Name: Eduardo Tigeras Mirete 
 > * Twitter:
-> * Sportive, gamer and programmer in a future.
+> * Sportman, gamer and programmer in a future.
 > ![Eduardo Tigeras Mirete ](/images/20210120_124923.jpg)
 
 
