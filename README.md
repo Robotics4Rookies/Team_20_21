@@ -93,11 +93,11 @@
 
 
 
-> 
+> ![Claudio Gea](images/CGL.jpeg)
 
-> Name: Gea
-> * Twitter: 
-> * .
+> Name: Claudio Gea López
+> * Twitter: @claudiio.28
+> * Gamer and fan of motorsports.
 
 
 > 
