@@ -175,11 +175,11 @@
 > * .
 
 
-> 
+> ![Alba Pujante](/images/Screenshot_20210120_132423.jpg).
 
-> Name: Pujante G
-> * Twitter: 
-> * .
+> Name: Alba Pujante García
+> * Instagram: @alba_pujante
+> * Future scientific eager to learn.
 
 
 
