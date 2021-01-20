@@ -115,7 +115,7 @@
 > * .
 
 
-> ![Ivan Martinez Hernandez](/images/IMHT.jpg)
+> 
 
 > Name: Ivan Martinez Hernandez
 > * Instagram: Ivanmartiineez_ 
