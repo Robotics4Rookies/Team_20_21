@@ -229,11 +229,11 @@
 
 
 > 
-
+> ![Eduardo Tigeras Mirete ](/images/20210120_124923.jpg)
 > Name: Eduardo Tigeras Mirete 
 > * Twitter:
 > * Sportman, gamer and programmer in a future.
-> ![Eduardo Tigeras Mirete ](/images/20210120_124923.jpg)
+
 
 
 > Name: Tomás
