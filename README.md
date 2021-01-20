@@ -205,10 +205,10 @@
 > * . ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 
-> 
+> ![Cristina Ruiz Silvente](/images/CRS.jpeg)
 
 > Name: Ruiz S, C
-> * Twitter: 
+> * Twitter: @CristinaRuizz
 > * .
 
 
