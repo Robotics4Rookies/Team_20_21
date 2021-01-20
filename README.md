@@ -175,7 +175,7 @@
 > * .
 
 
-> ![Alba Pujante](/images/Screenshot_20210120_132423.jpg).
+> ![Alba Pujante](/images/Screenshot_20210120_134522.jpg).
 
 > Name: Alba Pujante García
 > * Instagram: @alba_pujante
