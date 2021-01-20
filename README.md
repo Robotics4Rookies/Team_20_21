@@ -89,7 +89,7 @@
 
 > Name: García
 > * Twitter: 
-> ![Julian García Navarro](/images/IMG_20210120_130657.jpg)
+> ![Julian García Navarro](/images/IMG_20210120_130657.jg)
 
 
 
