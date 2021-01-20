@@ -226,10 +226,13 @@
 
 
 
-> ![Eduardo Tigeras Mirete](/images/20210120_124923)
+> ![Eduardo Tigeras Mirete](/images/20210120_124923.jpg)
 
 
 > Name: Eduardo Tigeras Mirete 
+
+
+> * Twitter: @Zuamun
 > * Sportsman, gamer and programmer in a future
 
 
