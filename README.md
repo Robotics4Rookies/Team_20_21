@@ -160,11 +160,11 @@
 > * .
 
 
->  ![Ginés Ruiz Bueno](/images/PAPG.png)
+> 
 
-> Name: Pablo Antonio Polán García
-> * Instagram: peibol_pg
-> * Student and athlete.
+> Name: Polán
+> * Twitter: 
+> * .
 
 
 
@@ -183,11 +183,11 @@
 
 
 
-> >  ![Carmen Romera Perez](/images/carmenromera.jpg)
+> 
 
 > Name: Romera
-> * Twitter&Instagram: @tellmecarmen
-> * . Scientist in the making :)
+> * Twitter: 
+> * .
 
 
 > 
@@ -198,13 +198,11 @@
 
 
 
-> 
+>  ![Ginés Ruiz Bueno](/images/https://github.com/Robotics4Rookies/iesalcantara_20_21/blob/main/images/IMG_20210120_124728.jpg)
 
 > Name: Ruiz G
 > * Twitter: @josemarg_05  instagram: @josemarg_05   tiktok:@joseruizzz05   facebook:Jose Maria Ruiz Gonzalez
-> * . ![Ginés Ruiz Bueno](/images/GRBGD.png)
-
-
+> * .
 > 
 
 > Name: Ruiz S, C
