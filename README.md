@@ -160,11 +160,11 @@
 > * .
 
 
->  ![Ginés Ruiz Bueno](/images/IMG_6343.jpg)
+> 
 
-> Name: Pablo Antonio Polán García
-> * Instagram: peibol_pg
-> * .Student and athlete
+> Name: Polán
+> * Twitter: 
+> * .
 
 
 
@@ -230,12 +230,11 @@
 
 > 
 
-> Name: Tigeras
-> * Twitter: 
-> * .
+> Name: Eduardo Tigeras Mirete 
+> * Twitter:
+> * Sportive, gamer and programmer in a future.
+> ![Eduardo Tigeras Mirete ](/images/20210120_124923.jpg)
 
-
-> 
 
 > Name: Tomás
 > * Twitter: 
