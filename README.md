@@ -183,13 +183,11 @@
 
 
 
-> 
+> >  ![Carmen Romera Perez](/images/carmenromera.jpg)
 
 > Name: Romera
 > * Twitter&Instagram: @tellmecarmen
 > * . Scientist in the making :)
-
->  ![Carmen Romera Perez](/images/carmenromera.jpg)
 
 
 > 
