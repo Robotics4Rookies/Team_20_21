@@ -89,7 +89,7 @@
 
 > Name: García
 > * Twitter: 
-> ![Julian García Navarro](/images/IMG_20210120_130657.jg)
+> * .
 
 
 
@@ -201,8 +201,8 @@
 > 
 
 > Name: Ruiz G
-> * Twitter: 
-> * .
+> * Twitter: @josemarg_05  instagram: @josemarg_05   tiktok:@joseruizzz05   facebook:Jose Maria Ruiz Gonzalez
+> * . ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 
 > 
@@ -229,14 +229,13 @@
 
 
 > 
-> ![Eduardo Tigeras Mirete ](/images/20210120_124923.jpg)
+
+> Name: Tigeras
+> * Twitter: 
+> * .
 
 
-> Name: Eduardo Tigeras Mirete 
-> * Twitter:
-> * Sportman, gamer and programmer in a future.
-
-
+> 
 
 > Name: Tomás
 > * Twitter: 
