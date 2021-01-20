@@ -228,11 +228,11 @@
 
 
 
-> 
+> ![Eduardo Tigeras Mirete](/images/20210120_124923)
 
-> Name: Tigeras
-> * Twitter: 
-> * .
+
+> Name: Eduardo Tigeras Mirete 
+> * Sportsman, gamer and programmer in a future
 
 
 > 
