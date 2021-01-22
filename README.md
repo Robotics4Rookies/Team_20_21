@@ -25,7 +25,9 @@
 
 
 > Ballester Mosquera, José
+
 ![Jose Ballester Mosquera](/images/CGL.png)
+
 > Name: 
 > * Twitter: 
 > * .
