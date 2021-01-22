@@ -134,8 +134,8 @@
 > Name: Martínez Miñano, Antonio 
 
 
-![Antonio Martinez Miñano](/images/)
-> * Twitter: 
+![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg)
+> * Isntagram: anton1o_04
 > * .
 
 
