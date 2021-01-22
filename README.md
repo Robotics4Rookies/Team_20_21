@@ -181,10 +181,12 @@
 
 > 
 
-> Name: Pujante H 
+> Name: Ginés Pujante Hernández 
+
+
 ![Ginés Pujante Hernández](/images/imageedit_3_6970207972.jpg)
-> *  Twitter:
-> * .Instagram: @gineso85 
+> *  Instagram: @gineso85 
+> * "Lo bueno, si breve, dos veces bueno."
 
 
 > ![Alba Pujante](/images/Screenshot_20210120_132423.jpg).
