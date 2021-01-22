@@ -27,9 +27,9 @@
 > Ballester Mosquera, José
 
 ![Jose Ballester Mosquera](/images/imageedit_3_8949590312.jpg)
-> Name: José Ballester Mosquera
-> * Instagram: @_josebm_ 
-> * I am gamer and really ambicious
+> Name: 
+> * Twitter: 
+> * .
 
 
 > Candel
@@ -65,10 +65,11 @@
 
 
 > 
-
-> Name: Duque
-> * Twitter: 
-> * .
+![AndresDuuqe](/images/AndresDuque.jpg)
+> Name: Duque Andrés
+> * Instagram: andresduquee__
+> * IES Alcantara's student studying 1º Bachillerato of science GD Proyect
+> * I'm an Astronomy, physic and mathematic fan, I play videogames too, but by the moment I'm concentrated in the course because I wish to be Mecanic or aeroespacial engineer
 
 
 
@@ -82,11 +83,7 @@
 > 
 
 > Name: Fernández
-
-
-![Candela Fernandez](/images/WhatsApp Image 2021-01-20 at 13.42.07.jpeg)
- 
-> * Instagram:@candeelasaezz 
+> * Twitter: 
 > * .
 
 
@@ -138,7 +135,7 @@
 > Name: Martínez Miñano, Antonio 
 
 
-![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg)
+![Antonio Martinez Miñano](/images/)
 > * Twitter: 
 > * .
 
@@ -184,10 +181,9 @@
 
 > 
 
-> Name: Pujante H 
-![Ginés Pujante Hernández](/images/imageedit_3_6970207972.jpg)
-> *  Twitter:
-> * .Instagram: @gineso85 
+> Name: Pujante H
+> * Twitter: 
+> * .
 
 
 > ![Alba Pujante](/images/Screenshot_20210120_132423.jpg).
