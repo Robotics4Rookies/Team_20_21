@@ -83,7 +83,8 @@
 > 
 
 > Name: Fernández
-> * Twitter: 
+ ![Candela Fernandez](/images/WhatsApp Image 2021-01-20 at 13.42.07.jpeg)
+> * Instagram:@candeelasaezz 
 > * .
 
 
