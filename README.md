@@ -26,9 +26,9 @@
 
 > Ballester Mosquera, José
 ![Jose Ballester Mosquera](/images/CGL.png)
-> Name: 
-> * Twitter: 
-> * .
+> Name: José Ballester Mosquera
+> * Instagram: @_josebm_
+> * I love technology and I am ambicious
 
 
 > Candel
