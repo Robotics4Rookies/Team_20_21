@@ -183,9 +183,9 @@
 
 
 
-> 
+> ![Carmen Romera Perez](/images/imageedit_3_6970207972.jpg)
 
-> Name: Pujante H
+> Name: Ginés Pujante
 > * Twitter: 
 > * .
 
