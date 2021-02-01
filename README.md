@@ -175,7 +175,7 @@
 > * .
 
 
-> 
+> ![Pablo Antonio Polám García](/images/PAPG.png)
 
 > Name: Polán
 > * Twitter: 
@@ -208,8 +208,8 @@
 > 
 
 > Name: Rufete
-> * Twitter: 
-> * .
+> * Instagram: @peibol_pg 
+> * . Student and athlete
 
 
 
