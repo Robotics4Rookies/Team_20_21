@@ -23,6 +23,8 @@
 > * 
 
 
+> ![Andrea Bajes Guevara](/images/FotoEjemploAndreaBajes.jfif)
+
 
 > Bajes Guevara, Andrea
 
