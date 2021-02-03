@@ -24,9 +24,18 @@
 
 
 
+> Bajes Guevara, Andrea
+
+> Name: 
+> * Twitter: 
+> * 
+
+
 > Ballester Mosquera, José
 
 ![Jose Ballester Mosquera](/images/imageedit_3_8949590312.jpg)
+
+
 > Name: 
 > * Twitter: 
 > * .
