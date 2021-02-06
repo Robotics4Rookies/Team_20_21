@@ -6,6 +6,7 @@
 
 # Project Team: [here](Team.md)
 
+> ![Team4Rookies IES Alcántara](/images/teamAlcantara.jpeg)
 
 > Almela
 
