@@ -12,7 +12,7 @@
 
 ## Team4Rookies community 
 
-[Discord]: https://discord.gg/6Vha2a3q
+[Discord](https://discord.gg/6Vha2a3q)
 
 ## [Access to DGReport]
 
