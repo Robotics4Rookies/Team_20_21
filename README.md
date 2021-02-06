@@ -7,6 +7,7 @@
 # Project Team: [here](Team.md)
 
 <a href="Team.md">
+  <img src="/images/teamAlcantara.jpeg">
 ![Team4Rookies IES Alcántara](/images/teamAlcantara.jpeg)
 </a>
 
