@@ -256,7 +256,7 @@
 
 
 
-> ![Eduardo Tigeras Mirete](/images/20210120_124923.jpg)
+> ![Eduardo Tigeras Mirete](/images/Eduardo Tigeras.jpg)
 
 
 > Name: Eduardo Tigeras Mirete 
