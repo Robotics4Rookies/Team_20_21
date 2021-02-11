@@ -31,7 +31,7 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/BOB.png)
+> ![iiaesparza](/images/ArribaEspaña.png)
 
 > Name: David García Anguiano
 > * Twitter: @elxokas
@@ -44,11 +44,11 @@
 > * viva españa
 > ![iirdragne](/images/robertdragne.png)
 
-> Name: Nassima Koumimi Koumimi
-> * Instagram: @nassk01
-> * In love with the think called technology.
+> Name: 7
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
 
-> ![nkoumimi01](/images/NassimaKoumimiKoumimi.png)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Jorge Martinez
 > * Twitter: @
