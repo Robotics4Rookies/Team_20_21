@@ -51,11 +51,11 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: 8
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Jorge Martinez
+> * Twitter: @
+> * good morning.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> !Jorge Martinez](/images/jorgemtz.png)
 
 > Name: 9
 > * Twitter: @GRuizBueno
