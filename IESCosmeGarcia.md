@@ -11,7 +11,7 @@
 > * emprendedor
 
 
-> ![Javier Arroniz](/images/imagen github.png)
+> ![Javier Arroniz](images/imagen github.png)
 
 
 > Name: 2
