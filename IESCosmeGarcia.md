@@ -86,11 +86,11 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Alonso Sáez](/images/Papa Oso.png)
 
-> Name: 14
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Alonso Sáez
+> * Instagram: @alonsy_para_los_amigos
+> * My most favourite thing to do is Draw
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
