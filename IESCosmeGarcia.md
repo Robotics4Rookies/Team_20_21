@@ -14,11 +14,12 @@
 > ![Javier Arroniz](/images/imagen github.png)
 
 
-> Name: 2
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Dani
+> * Insta: @_d.bece_
+> * Empresario de exito (magnate de las tostadoras)
+    "Uno al sol vale dos"
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Daniel Becerril](/images/D.becerril2.png)
 
 
 > Name: 3
@@ -31,10 +32,10 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/ArribaEspaña.png)
+> ![iiaesparza](/images/Arriba España.jpg)
 
 > Name: David García Anguiano
-> * Twitter: @elxokas
+> * Twitter: @GRuizBueno
 > * Esto no es un juego.
 
 > ![iidgarcia](/images/DavidGarcia.png)
@@ -45,11 +46,11 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: Nassima Koumimi Koumimi
-> * Instagram: @nassk01
-> * In love with the thing called technology.
+> Name: 7
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
 
-> ![nkoumimi01](/images/NassimaKoumimiKoumimi.png)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Jorge Martinez
 > * Twitter: @
@@ -85,7 +86,7 @@
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![IIALonsoSaez](/images/PapaOso.jpg)
+> ![IIALonsoSaez](/images/Papa Oso.jpg)
 
 > Name: Alonso Sáez
 > * Instagram: @alonsy_para_los_amigos
