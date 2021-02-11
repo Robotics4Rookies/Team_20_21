@@ -63,21 +63,20 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: 10
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
-
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> Name:Ekaitz Ocio 
+> * Instagram: @ekaitzlantzi
+>
+> ![Ginés Ruiz Bueno](/images/Ekaitz.jpg)
 
 > Name: Alberto Olarte Blanco
 > * Instagram: albertobm_98 
 > 
 > ![Ginés Ruiz Bueno](/images/AlbertoOlarte.jpg)
 
-> Name: Ekaitz Ocio 
-> * Instagram: @ekaitzlantzi
+> Name: 12 
+> 
 >
-> ![Ginés Ruiz Bueno](/images/Ekaitz.jpg) 
+> ![Ginés Ruiz Bueno]
 
 
 > Name: Alberto Sáenz
