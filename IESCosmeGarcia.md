@@ -84,13 +84,13 @@
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![IIALonsoSaez](/images/PapaOso.jpg)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Alonso Sáez
 > * Instagram: @alonsy_para_los_amigos
 > * My most favourite thing to do is Draw
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![IIALonsoSaez](/images/PapaOso.jpg)
 
 > Name: 15
 > * Twitter: @GRuizBueno
