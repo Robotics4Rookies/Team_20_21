@@ -31,7 +31,7 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/ArribaEspaña.png)
+> ![iiaesparza](/images/BOB.png)
 
 > Name: David García Anguiano
 > * Twitter: @elxokas
