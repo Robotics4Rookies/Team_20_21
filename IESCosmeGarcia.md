@@ -86,7 +86,7 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![Alonso Sáez](/images/Papa Oso.png)
+> ![Alonso Sáez](/images/Papa Oso.jpg)
 
 > Name: Alonso Sáez
 > * Instagram: @alonsy_para_los_amigos
