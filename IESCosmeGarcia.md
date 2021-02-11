@@ -54,7 +54,7 @@
 
 > Name: Jorge Martinez
 > * Twitter: @
-> * good morning.
+> * Mi propio jefe .
 
 > ![Jorge Martinez](/images/jorgemtz3.png)
 
