@@ -31,7 +31,7 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/ArribaEspaña.png)
+> ![iiaesparza](/images/Arriba España.png)
 
 > Name: David García Anguiano
 > * Twitter: @GRuizBueno
@@ -39,11 +39,11 @@
 
 > ![iidgarcia](/images/DavidGarcia.png)
 
-> Name: 6
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Robert Dragne
+> * Twitter: @ivanedlm
+> * viva españa
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![iirdragne](/images/robert dragne.png)
 
 > Name: 7
 > * Twitter: @GRuizBueno
