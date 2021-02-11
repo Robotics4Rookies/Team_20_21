@@ -10,7 +10,6 @@
 > * Twitter: @Javiermendavia1
 > * emprendedor
 
-
 > ![Javier Arroniz](/images/imagen github.png)
 
 
@@ -27,23 +26,23 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: Ángel Esparza
-> * Twitter: @PabloEchenique
-> * Latinlover, don´t tread on me.
-
-> ![Ginés Ruiz Bueno](/images/Arriba España.png)
-
-> Name: David García Anguiano
-> * Twitter: @GRuizBueno
-> * Esto no es un juego.
-
-> ![iidgarcia](/images/DavidGarcia.png)
-
-> Name: 6
+> Name: 4
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
+
+> Name: David García Anguiano
+> * Twitter: @elxokas
+> * Esto no es un juego.
+
+> ![iidgarcia](/images/DavidGarcia.png)
+
+> Name: Robert Dragne
+> * Twitter: @ivanedlm
+> * amante de los gatos y la filosifia de masas
+
+> ![iirdragne](/images/robert dragne.png)
 
 > Name: 7
 > * Twitter: @GRuizBueno
@@ -55,7 +54,7 @@
 > * Twitter: @
 > * good morning.
 
-> !Jorge Martinez](/images/jorgemtz.png)
+> ![Jorge Martinez](/images/jorgemtz.png)
 
 > Name: 9
 > * Twitter: @GRuizBueno
@@ -78,8 +77,6 @@
 > Name: 12
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
-
-> ![ALBERTO SÁENZ CÁRCAMO](/ASC/GRBGD.png)
 
 > Name: Alberto Sáenz
 > * Instagram: @albertopelotari
