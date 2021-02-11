@@ -35,7 +35,7 @@
 > ![iiaesparza](/images/BOB.png)
 
 > Name: David García Anguiano
-> * Twitter: @elxokas
+> * Twitter: @notengo
 > * Esto no es un juego.
 
 > ![iidgarcia](/images/DavidGarcia.png)
