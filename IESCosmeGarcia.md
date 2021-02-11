@@ -3,7 +3,7 @@
 
 
 
-> ![Javier Arroniz](/images/imagen github.png)
+
 
 
 > Name: Javier arroniz
