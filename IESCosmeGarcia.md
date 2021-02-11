@@ -85,7 +85,7 @@
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![IIALonsoSaez](/images/Papa Oso.jpg)
+> ![IIALonsoSaez](/images/PapaOso.jpg)
 
 > Name: Alonso Sáez
 > * Instagram: @alonsy_para_los_amigos
