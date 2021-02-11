@@ -92,11 +92,11 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: 15
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Mario San Antonio
+> * Instagram: @amariosan
+> * i love mechas and ships:D.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![msanan](/images/yolo.jpeg)
 
 > Name: 16
 > * Twitter: @GRuizBueno
