@@ -79,7 +79,9 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> Name: Alberto Sáenz
+![iiasaenz22](/images/ASC.jpg)
+
+> Name: Alberto Sáenz images
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
