@@ -27,11 +27,11 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: 4
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Ángel Esparza
+> * Twitter: @PabloEchenique
+> * Latinlover, don´t tread on me.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Ginés Ruiz Bueno](/images/Arriba España.png)
 
 > Name: David García Anguiano
 > * Twitter: @GRuizBueno
