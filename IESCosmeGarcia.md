@@ -34,7 +34,7 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: David García Anguiano
-> * Twitter: @GRuizBueno
+> * Twitter: @nada
 > * Esto no es un juego.
 
 > ![iidgarcia](/images/DavidGarcia.png)
@@ -51,11 +51,11 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: 8
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Jorge Martinez
+> * Twitter: @
+> * good morning.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> !Jorge Martinez](/images/jorgemtz.png)
 
 > Name: 9
 > * Twitter: @GRuizBueno
@@ -78,8 +78,6 @@
 > Name: 12
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
-
-> ![Ginés Ruiz Bueno](images/ASC.jpg)
 
 > Name: Alberto Sáenz
 > * Instagram: @albertopelotari
