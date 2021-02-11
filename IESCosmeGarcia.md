@@ -3,12 +3,12 @@
 
 
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Javier Arroniz](/images/imagen github.png)
 
 
-> Name: GARCIS
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Javier arroniz
+> * Twitter: @Javiermendavia1
+> * emprendedor
 
 
 
