@@ -29,7 +29,7 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Ángel Esparza
-> * Twitter: @PabloEchenique
+> * Instagram: @angelesparza00
 > * Latinlover, don´t tread on me.
 
 > ![iiaesparza](/images/GRBGD.png)
