@@ -6,7 +6,7 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 
-> Name: 1
+> Name: GARCIS
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
