@@ -11,8 +11,7 @@
 > * emprendedor
 
 
-
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Javier Arroniz](/images/imagen github.png)
 
 
 > Name: 2
