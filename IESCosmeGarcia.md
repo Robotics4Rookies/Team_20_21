@@ -11,7 +11,7 @@
 > * emprendedor
 
 
-> ![Javier Arroniz](images/imagen github.png)
+> ![Javier Arroniz](/images/imagen github.png)
 
 
 > Name: 2
@@ -31,19 +31,19 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/Arriba España.png)
+> ![iiaesparza](/images/ArribaEspaña.png)
 
 > Name: David García Anguiano
-> * Twitter: @GRuizBueno
+> * Twitter: @elxokas
 > * Esto no es un juego.
 
 > ![iidgarcia](/images/DavidGarcia.png)
 
-> Name: Robert Dragne
-> * Twitter: @ivanedlm
-> * viva españa
+> Name: 6
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
 
-> ![iirdragne](/images/robert dragne.png)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: 7
 > * Twitter: @GRuizBueno
@@ -79,7 +79,7 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![iiasaez22](/images/ASC.png)
+> ![ALBERTO SÁENZ CÁRCAMO](/ASC/GRBGD.png)
 
 > Name: Alberto Sáenz
 > * Instagram: @albertopelotari
