@@ -32,7 +32,7 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/BOB.png)
+> ![iiaesparza](/images/GRBGD.png)
 
 > Name: David García Anguiano
 > * Twitter: @notengo
