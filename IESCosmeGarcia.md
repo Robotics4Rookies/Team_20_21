@@ -79,7 +79,7 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![ALBERTO SÁENZ CÁRCAMO](/ASC/GRBGD.png)
+> ![iiasaenz22](/images/ASC.png)
 
 > Name: Alberto Sáenz
 > * Instagram: @albertopelotari
