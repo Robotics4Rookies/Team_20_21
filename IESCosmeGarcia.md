@@ -14,11 +14,11 @@
 > ![Javier Arroniz](/images/imagen github.png)
 
 
-> Name: 2
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name:Dani
+> * Insta: @_d.bece_
+> * Empresario de exito (magnate de las tostadoras)/"Uno al sol vale dos"
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Daniel Becerril](/images/dbecerril.png)
 
 
 > Name: 3
