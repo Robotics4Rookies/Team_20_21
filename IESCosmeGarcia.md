@@ -73,11 +73,11 @@
 > 
 > ![Ginés Ruiz Bueno](/images/AlbertoOlarte.jpg)
 
-> Name: 12 
-> 
->
-> ![Ginés Ruiz Bueno]
+> Name: 3
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
 
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Alberto Sáenz
 > * Instagram: @albertopelotari
