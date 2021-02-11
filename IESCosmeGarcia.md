@@ -27,8 +27,8 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: Ángel Esparza
-> * Twitter: @PabloEchenique
+> Name: Ángel Esparza.
+> * Twitter: @PabloEchenique.
 > * Latinlover, don´t tread on me.
 
 > ![iiaesparza](/images/ArribaEspaña.png)
@@ -45,11 +45,11 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: Nassima Koumimi Koumimi
-> * Instagram: @nassk01
-> * In love with the thing called technology.
+> Name: 7
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
 
-> ![nkoumimi01](/images/NassimaKoumimiKoumimi.png)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Jorge Martinez
 > * Twitter: @
