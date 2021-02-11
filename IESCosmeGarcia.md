@@ -21,8 +21,8 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 
-> Name: 3
-> * Twitter: @GRuizBueno
+> Name: Bryan Chavez Perrazo
+> * Twitter: @
 > * Lover of technology and the use of new learning methodologies.
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
