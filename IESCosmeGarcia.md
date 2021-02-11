@@ -11,8 +11,6 @@
 > * emprendedor
 
 
-> ![Javier Arroniz](/images/arroniz.png)
-
 
 > Name: Dani
 > * Insta: @_d.bece_
