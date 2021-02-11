@@ -57,11 +57,11 @@
 
 > ![Jorge Martinez](/images/jorgemtz.png)
 
-> Name: 9
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Jorge Montoya
+> * Instagram: montoya_bru
+> * good morning my people!
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Ginés Ruiz Bueno](/images/iiJMontoya1.jpg)
 
 > Name: 10
 > * Twitter: @GRuizBueno
