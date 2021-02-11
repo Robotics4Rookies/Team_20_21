@@ -11,50 +11,51 @@
 > * emprendedor
 
 
-
-> Name: Dani
-> * Insta: @_d.bece_
-> * Empresario de exito (magnate de las tostadoras)
-    "Uno al sol vale dos"
-
-> ![Daniel Becerril](/images/D.becerril2.png)
+> ![Javier Arroniz](/images/imagen github.png)
 
 
-> Name: Bryan Chavez Perrazo
-> * Twitter: @
+> Name: 2
+> * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: Ángel Esparza
-> * Instagram: @angelesparza00
-> * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/ArribaEspaña.png)
+> Name: 3
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
+
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+
+> Name: 4
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
+
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: David García Anguiano
-> * Twitter: @notengo
+> * Twitter: @elxokas
 > * Esto no es un juego.
 
 > ![iidgarcia](/images/DavidGarcia.png)
 
-> Name: Robert Dragne
-> * Twitter: @ivanedlm
-> * viva españa
+> Name: 6
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
 
-> ![iirdragne](/images/robertdragne1.png)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: Nassima Koumimi Koumimi
-> * Instagram: @nassk01
-> * The art hides in the gallery called technology.
+> Name: 7
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
 
-> ![nkoumimi19](/images/NassimaKoumimiKoumimi.png)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Jorge Martinez
 > * Twitter: @
 > * good morning.
 
-> ![Jorge Martinez](/images/jorgemtz3.png)
+> ![Jorge Martinez](/images/jorgemtz.png)
 
 > Name: 9
 > * Twitter: @GRuizBueno
@@ -68,35 +69,34 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: 11
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Alberto Olarte Blanco
+> * Instagram: albertobm_98 
+> 
+> ![Ginés Ruiz Bueno](/images/AlbertoOlarte.jpg)
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> Name: Ekaitz Ocio 
+> * Instagram: @ekaitzlantzi
+>
+> ![Ginés Ruiz Bueno](/images/Ekaitz.jpg) 
 
-> Name: 12
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
-
->![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Alberto Sáenz
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![aasaeenz22](/images/ASC.jpg)
+> ![Ginés Ruiz Bueno](/images/Papa Oso.jpg)
 
 > Name: Alonso Sáez
 > * Instagram: @alonsy_para_los_amigos
 > * My most favourite thing to do is Draw
 
-> ![IIALonsoSaez](/images/PapaOso.jpg)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: Mario San Antonio
-> * Instagram: @amariosan
-> * i love mechas and ships:D.
+> Name: 15
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
 
-> ![msanan](/images/yolo.jpeg)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: 16
 > * Twitter: @GRuizBueno
