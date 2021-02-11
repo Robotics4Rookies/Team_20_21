@@ -11,7 +11,7 @@
 > * emprendedor
 
 
-> ![Javier Arroniz](/images/arroniz.png)
+
 
 
 > Name: Dani
@@ -32,7 +32,7 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/GRBGD.png)
+> ![iiaesparza](/images/BOB.png)
 
 > Name: David García Anguiano
 > * Twitter: @notengo
