@@ -80,11 +80,11 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Ginés Ruiz Bueno](/ASC/GRBGD.png)
 
-> Name: 13
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Alberto Sáenz
+> * Instagram: @albertopelotari
+> * Lover of technology and sport.
 
 > ![Alonso Sáez](/images/Papa Oso.jpg)
 
