@@ -14,11 +14,12 @@
 > ![Javier Arroniz](/images/arroniz.png)
 
 
-> Name: 2
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Dani
+> * Insta: @_d.bece_
+> * Empresario de exito (magnate de las tostadoras)
+    "Uno al sol vale dos"
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Daniel Becerril](/images/D.becerril2.png)
 
 
 > Name: Bryan Chavez Perrazo
