@@ -53,9 +53,9 @@
 
 > Name: Jorge Martinez
 > * Twitter: @
-> * good morning.
+> * good morning. HI
 
-> !Jorge Martinez](/images/jorgemtz.png)
+> ![Jorge Martinez](/images/jorgemtz.png)
 
 > Name: 9
 > * Twitter: @GRuizBueno
