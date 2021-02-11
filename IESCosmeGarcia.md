@@ -33,11 +33,11 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: 5
+> Name: David García Anguiano
 > * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> * Esto no es un juego.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![iidgarcia](/images/DavidGarcia.png)
 
 > Name: 6
 > * Twitter: @GRuizBueno
