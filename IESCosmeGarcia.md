@@ -31,7 +31,7 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/ArribaEspaña.png)
+> ![iiaesparza](/images/BOB.png)
 
 > Name: David García Anguiano
 > * Twitter: @elxokas
@@ -84,13 +84,13 @@
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![IIALonsoSaez](/images/PapaOso.jpg)
 
 > Name: Alonso Sáez
 > * Instagram: @alonsy_para_los_amigos
 > * My most favourite thing to do is Draw
 
-> ![IIALonsoSaez](/images/PapaOso.jpg)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: 15
 > * Twitter: @GRuizBueno
