@@ -1,4 +1,4 @@
-![Título IES ALCÁNTARA](/images/LearnToTeach.png)
+![Título IES COSME GARCIA](/images/CosmeGarcia.png)
 
 ## [IES Alcántara web]
 
