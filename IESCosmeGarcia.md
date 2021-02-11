@@ -90,7 +90,7 @@
 > * Instagram: @alonsy_para_los_amigos
 > * My most favourite thing to do is Draw
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![IIALonsoSaez](/images/PapaOso.jpg)
 
 > Name: 15
 > * Twitter: @GRuizBueno
