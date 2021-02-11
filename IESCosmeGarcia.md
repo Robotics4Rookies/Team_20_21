@@ -30,7 +30,7 @@
 > * Instagram: @angelesparza00
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/GRBGD.png)
+> ![iiaesparza](/images/ArribaEspaña.png)
 
 > Name: David García Anguiano
 > * Twitter: @notengo
