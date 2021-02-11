@@ -46,11 +46,11 @@
 
 > ![iirdragne](/images/robertdragne1.png)
 
-> Name: 7
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Nassima Koumimi Koumimi
+> * Instagram: @nassk01
+> * The art hides in the gallery called technology.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![nkoumimi19](/images/NassimaKoumimiKoumimi.png)
 
 > Name: Jorge Martinez
 > * Twitter: @
