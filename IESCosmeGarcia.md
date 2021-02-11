@@ -31,7 +31,7 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/BOB.png)
+> ![iiaesparza](/images/ArribaEspaña.png)
 
 > Name: David García Anguiano
 > * Twitter: @elxokas
@@ -42,7 +42,7 @@
 > Name: Robert Dragne
 > * Twitter: @ivanedlm
 > * viva españa
-> ![iirdragne](/images/robertdragne.png)
+> ![iirdragne](/images/robertdragne1.png)
 
 > Name: 7
 > * Twitter: @GRuizBueno
