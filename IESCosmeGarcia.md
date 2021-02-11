@@ -31,7 +31,7 @@
 > * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/Arriba España.png)
+> ![iiaesparza](/images/Arriba España.jpg)
 
 > Name: David García Anguiano
 > * Twitter: @GRuizBueno
