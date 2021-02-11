@@ -39,11 +39,11 @@
 
 > ![iidgarcia](/images/DavidGarcia.png)
 
-> Name: 6
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Robert Dragne
+> * Twitter: @ivanedlm
+> * amante de los gatos y la filosifia de masas
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![iirdragne](/images/robert dragne.png)
 
 > Name: 7
 > * Twitter: @GRuizBueno
