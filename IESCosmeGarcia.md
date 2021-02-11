@@ -27,11 +27,11 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: Ángel Esparza.
-> * Twitter: @PabloEchenique.
+> Name: Ángel Esparza
+> * Twitter: @PabloEchenique
 > * Latinlover, don´t tread on me.
 
-> ![iiaesparza](/images/BOB.png)
+> ![iiaesparza](/images/ArribaEspaña.png)
 
 > Name: David García Anguiano
 > * Twitter: @elxokas
@@ -39,11 +39,10 @@
 
 > ![iidgarcia](/images/DavidGarcia.png)
 
-> Name: 6
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
-
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> Name: Robert Dragne
+> * Twitter: @ivanedlm
+> * viva españa
+> ![iirdragne](/images/robertdragne.png)
 
 > Name: 7
 > * Twitter: @GRuizBueno
@@ -79,7 +78,7 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![iiasaenz22](/images/ASC.png)
+> ![ALBERTO SÁENZ CÁRCAMO](/ASC/GRBGD.png)
 
 > Name: Alberto Sáenz
 > * Instagram: @albertopelotari
