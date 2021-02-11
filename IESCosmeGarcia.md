@@ -34,7 +34,7 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: David García Anguiano
-> * Twitter: @nada
+> * Twitter: @elxokas
 > * Esto no es un juego.
 
 > ![iidgarcia](/images/DavidGarcia.png)
