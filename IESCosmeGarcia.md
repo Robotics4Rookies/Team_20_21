@@ -98,7 +98,7 @@
 > * Twitter: @mariosanan1
 > * Fan de los Barcos y los Mechas
 > 
-> ![Mario San Antonio](/images/Mariosanan.jp)
+> ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
 > Name: 16
 > * Twitter: @GRuizBueno
