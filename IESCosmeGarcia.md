@@ -107,7 +107,7 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: 17
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> * Twitter: @carmenmendezprofe
+> * Teacher, mother and student. Always learning.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![Carmen Méndez Muñoz](/images/carmenmendez.jpg)
