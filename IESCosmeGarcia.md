@@ -28,8 +28,8 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: 4
-> * Twitter: @ivanedlm
+> Name: Robert Dragne
+> * Insta: @elro28
 > * por un ESPAÑA libre y unida.
 
 > ![robertdragne1](/images/robertdragne1.png)
