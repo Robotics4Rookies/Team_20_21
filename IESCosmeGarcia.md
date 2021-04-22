@@ -113,6 +113,6 @@
 
 > Name: Sara Berezo Loza
 >  
-> * Network lover
+> * Network lover learning to be a teacher
 
 > ![Sara Berezo Loza](/images/SaraBerezoLoza.jpeg)
