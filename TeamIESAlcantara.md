@@ -38,8 +38,6 @@
 
 ![Jose Ballester Mosquera](/images/imageedit_3_8949590312.jpg)
 
-> * Instagram: _josebm_
-> * Not only am I a technology lover but also an ambicious person, I am ready for any project that it faces me
 
 > Name: 
 > * Twitter: 
@@ -191,9 +189,9 @@
 
 > ![Pablo Antonio Polám García](/images/PAPG.png)
 
-> Name: Polán
-> * Twitter: 
-> * .
+> Name: Pablo Antonio Polán García
+> * Instagram: peibol_pg
+> * Student and athlete
 
 
 
@@ -204,7 +202,7 @@
 > * .
 
 
-> ![Alba Pujante](/images/albapujante2.jpg).
+> ![Alba Pujante](/images/AlbaPujante.png).
 
 > Name: Alba Pujante García
 > * Instagram: @alba_pujante
