@@ -32,7 +32,7 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![robertdragne1](/images/robertdragne1.png)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: David García Anguiano
 > * Twitter: @elxokas
@@ -86,18 +86,18 @@
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![IIAlonsoSaez](/images/Papa Oso.jpg)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Alonso Sáez
 > 
 > * Instagram: @alonsy_para_los_amigos
 > * My most favourite thing to do is Draw
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![IIAlonsoSaez](/images/PapaOso.jpg)
 
 > Name: Mario San Antonio
 > * Twitter: @mariosanan1
-> * fan of ships and mechas
+> * Fan of ships and mechas.
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
