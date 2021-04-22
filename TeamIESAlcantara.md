@@ -8,13 +8,6 @@
 # Project Team:
 
 
-> Almela
-
-> Name: 
-> * Twitter: 
-> * .
-
-
 
 
 > Amante
