@@ -32,7 +32,7 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![robertdragne1](/images/robertdragne1.png)
 
 > Name: David García Anguiano
 > * Twitter: @elxokas
@@ -97,7 +97,7 @@
 
 > Name: Mario San Antonio
 > * Twitter: @mariosanan1
-> * Fan of ships and mechas.
+> * fan of ships and mechas
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
