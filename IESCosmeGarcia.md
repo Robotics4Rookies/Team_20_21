@@ -113,6 +113,6 @@
 
 > Name: Sara Berezo Loza
 > *  
-> * 
+> * Network lover
 
-> ![Sara Berezo Loza](/images/Sara Berezo Loza.jpeg)
+> ![Sara Berezo Loza](/images/SaraBerezoLoza.jpeg)
