@@ -220,8 +220,8 @@
 > 
 
 > Name: Rufete
-> * Instagram: @peibol_pg 
-> * . Student and athlete
+> * Twitter:
+> * .
 
 
 
