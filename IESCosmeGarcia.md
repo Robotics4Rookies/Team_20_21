@@ -78,6 +78,10 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
+
+
+
+> main
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Alberto Sáenz images
@@ -95,7 +99,9 @@
 
 > Name: Mario San Antonio
 > * Twitter: @mariosanan1
+
 > * fan of ships and mechas
+
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
