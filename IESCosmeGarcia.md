@@ -1,4 +1,4 @@
-![Título IES ALCÁNTARA](/images/LearnToTeach.png)
+![Título Cosme García](/images/CosmeGarcia.png)
 
 
 
@@ -28,7 +28,7 @@
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: Robert Dragne
+> Name: 4
 > * Twitter: @Santi_ABASCAL
 > * por un ESPAÑA libre y unida.
 
