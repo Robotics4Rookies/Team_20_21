@@ -38,6 +38,8 @@
 
 ![Jose Ballester Mosquera](/images/imageedit_3_8949590312.jpg)
 
+> * Instagram: _josebm_
+> * Not only am I a technology lover but also an ambicious person, I am ready for any project that it faces me
 
 > Name: 
 > * Twitter: 
