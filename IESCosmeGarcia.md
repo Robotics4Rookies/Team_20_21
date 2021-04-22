@@ -29,13 +29,13 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: 4
-> * Twitter: @Santi_ABASCAL
-> * por un ESPAÑA libre y unida.
+> * Twitter: @GRuizBueno
+> * Lover of technology and the use of new learning methodologies.
 
-> ![robertdragne1](/images/robertdragne1.png)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: David García Anguiano
-> * Twitter: @noname
+> * Twitter: @elxokas
 > * Esto no es un juego.
 
 > ![iidgarcia](/images/DavidGarcia.png)
@@ -78,26 +78,24 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![iiasaenz22](/images/ASC.png)
-
-![iiasaenz22](/images/ASC.jpg)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Alberto Sáenz images
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![IIAlonsoSaez](/images/Papa Oso.jpg)
+> ![iiasaenz22](/images/ASC.png)
 
 > Name: Alonso Sáez
 > 
 > * Instagram: @alonsy_para_los_amigos
 > * My most favourite thing to do is Draw
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![IIAlonsoSaez](/images/PapaOso.jpg)
 
 > Name: Mario San Antonio
 > * Twitter: @mariosanan1
-> * fan of ships and mechas
+> * Fan of ships and mechas.
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
