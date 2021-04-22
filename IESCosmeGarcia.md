@@ -86,18 +86,18 @@
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![iiasaenz22](/images/ASC.jpg)
+> ![IIAlonsoSaez](/images/Papa Oso.jpg)
 
 > Name: Alonso Sáez
 > 
 > * Instagram: @alonsy_para_los_amigos
 > * My most favourite thing to do is Draw
 
-> ![IIAlonsoSaez](/images/PapaOso.jpg)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Mario San Antonio
 > * Twitter: @mariosanan1
-> * Fan de los Barcos y los Mechas
+> * fan of ships and mechas
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
