@@ -195,11 +195,11 @@
 
 
 
-> ![Carmen Romera Perez](/images/imageedit_3_6970207972.jpg)
+> ![Ginés Pujante Hernández](/images/imageedit_3_6970207972.jpg)
 
 > Name: Ginés Pujante
-> * Twitter: 
-> * .
+> * Instagram: gineso85
+> * "Per aspera ad astra"
 
 
 > ![Alba Pujante](/images/AlbaPujante.png).
