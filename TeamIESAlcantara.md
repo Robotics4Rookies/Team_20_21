@@ -195,7 +195,7 @@
 > * .
 
 
-> ![Alba Pujante](/images/AlbaPujante.png).
+> ![Alba Pujante](/images/albapujante2.jpg).
 
 > Name: Alba Pujante García
 > * Instagram: @alba_pujante
@@ -210,11 +210,6 @@
 > * . Scientist in the making :)
 
 
-> 
-
-> Name: Rufete
-> * Twitter:
-> * .
 
 
 
