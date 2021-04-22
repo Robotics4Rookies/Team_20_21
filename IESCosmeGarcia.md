@@ -112,7 +112,7 @@
 > ![Carmen Méndez Muñoz](/images/carmenmendez.jpg)
 
 > Name: Sara Berezo Loza
-> *  
+>  
 > * Network lover
 
 > ![Sara Berezo Loza](/images/SaraBerezoLoza.jpeg)
