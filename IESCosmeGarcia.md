@@ -110,3 +110,9 @@
 > * Teacher, mother and student. Always learning.
 
 > ![Carmen Méndez Muñoz](/images/carmenmendez.jpg)
+
+> Name: Sara Berezo Loza
+> *  
+> * 
+
+> ![Sara Berezo Loza](/images/Sara Berezo Loza.jpeg)
