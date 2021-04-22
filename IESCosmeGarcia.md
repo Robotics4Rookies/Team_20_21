@@ -97,7 +97,7 @@
 
 > Name: Mario San Antonio
 > * Twitter: @mariosanan1
-> * fan of ships and mechas
+> * Fan of ships and mechas.
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
