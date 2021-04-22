@@ -29,7 +29,7 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: 4
-> * Twitter: @Santi_ABASCAL
+> * Twitter: @ivanedlm
 > * por un ESPAÑA libre y unida.
 
 > ![robertdragne1](/images/robertdragne1.png)
@@ -84,7 +84,7 @@
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![iiasaenz22](/images/ASC.jpg)
+> ![iiasaenz22](/images/ASC.png)
 
 > Name: Alonso Sáez
 > 
