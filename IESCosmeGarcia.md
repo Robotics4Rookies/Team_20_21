@@ -15,14 +15,14 @@
 > ![Javier Arroniz](/images/imagen github.png)
 
 
-> Name: 2
+> Name: Daniel Becerril
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 
-> Name: 3
+> Name: David Hervías
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
@@ -40,7 +40,7 @@
 
 > ![iidgarcia](/images/DavidGarcia.png)
 
-> Name: 6
+> Name: Jorge Montoya
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
@@ -58,7 +58,7 @@
 
 > ![Jorge Martinez](/images/jorgemtz.png)
 
-> Name: 9
+> Name: Nassima Koumimi
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
@@ -74,15 +74,9 @@
 > 
 > ![Ginés Ruiz Bueno](/images/AlbertoOlarte.jpg)
 
-> Name: 3
+> Name: Aarón Sáez
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
-
-
-
-
-> main
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Alberto Sáenz images
 > * Instagram: @albertopelotari
@@ -105,13 +99,13 @@
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
-> Name: 16
+> Name: Brian
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
-> Name: 17
+> Name: Carmen Mendez
 > * Twitter: @carmenmendezprofe
 > * Teacher, mother and student. Always learning.
 
