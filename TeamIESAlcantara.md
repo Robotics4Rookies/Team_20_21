@@ -189,9 +189,9 @@
 
 > ![Pablo Antonio Polám García](/images/PAPG.png)
 
-> Name: Polán
-> * Twitter: 
-> * .
+> Name: Pablo Antonio Polán García
+> * Instagram: peibol_pg
+> * Student and athlete
 
 
 
@@ -256,7 +256,7 @@
 
 
 
-> ![Eduardo Tigeras Mirete](/images/Eduardo Tigeras.jpg)
+> ![Eduardo Tigeras Mirete](/images/20210120_124923.jpg)
 
 
 > Name: Eduardo Tigeras Mirete 

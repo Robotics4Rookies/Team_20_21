@@ -1,4 +1,4 @@
-![Título IES ALCÁNTARA](/images/LearnToTeach.png)
+![Título Cosme García](/images/CosmeGarcia.png)
 
 
 
@@ -29,13 +29,13 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: 4
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> * Twitter: @ivanedlm
+> * por un ESPAÑA libre y unida.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![robertdragne1](/images/robertdragne1.png)
 
 > Name: David García Anguiano
-> * Twitter: @elxokas
+> * Twitter: @noname
 > * Esto no es un juego.
 
 > ![iidgarcia](/images/DavidGarcia.png)
@@ -79,6 +79,9 @@
 > * Lover of technology and the use of new learning methodologies.
 
 
+
+
+> main
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Alberto Sáenz images
@@ -96,7 +99,9 @@
 
 > Name: Mario San Antonio
 > * Twitter: @mariosanan1
-> * Fan de los Barcos y los Mechas
+
+> * fan of ships and mechas
+
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
@@ -111,3 +116,9 @@
 > * Teacher, mother and student. Always learning.
 
 > ![Carmen Méndez Muñoz](/images/carmenmendez.jpg)
+
+> Name: Sara Berezo Loza
+> *  
+> * Network lover
+
+> ![Sara Berezo Loza](/images/SaraBerezoLoza.jpeg)
