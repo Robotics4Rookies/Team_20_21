@@ -78,26 +78,25 @@
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 
-> ![iiasaenz22](/images/ASC.png)
 
-![iiasaenz22](/images/ASC.jpg)
+> ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 > Name: Alberto Sáenz images
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![IIAlonsoSaez](/images/Papa Oso.jpg)
+> ![iiasaenz22](/images/ASC.jpg)
 
 > Name: Alonso Sáez
 > 
 > * Instagram: @alonsy_para_los_amigos
 > * My most favourite thing to do is Draw
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![IIAlonsoSaez](/images/PapaOso.jpg)
 
 > Name: Mario San Antonio
 > * Twitter: @mariosanan1
-> * Fan of ships and mechas.
+> * Fan de los Barcos y los Mechas
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
