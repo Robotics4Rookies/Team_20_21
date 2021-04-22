@@ -84,7 +84,7 @@
 > * Instagram: @albertopelotari
 > * Lover of technology and sport.
 
-> ![iiasaenz22](/images/ASC.png)
+> ![iiasaenz22](/images/ASC.jpg)
 
 > Name: Alonso Sáez
 > 
