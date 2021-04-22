@@ -10,6 +10,7 @@
 > * Twitter: @Javiermendavia1
 > * emprendedor
 
+![José Ballester](/images/imagen github.png)
 
 > ![Javier Arroniz](/images/imagen github.png)
 
