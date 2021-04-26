@@ -18,14 +18,6 @@
 
 
 
-> Candel
-
-> Name: 
-> * Twitter: 
-> * .
-
-
-
 > Cremades
 
 > Name: 
