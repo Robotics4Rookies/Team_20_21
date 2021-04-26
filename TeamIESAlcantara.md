@@ -24,8 +24,8 @@
 ![AndresDuuqe](/images/AndresDuque.jpg)
 >
 
-> Name: Duque Andrés
-> * Instagram: andresduquee__
+> Name: Duque Durán, Andrés
+> * Instagram: @andresduquee__
 > * IES Alcantara's student studying 1º Bachillerato of science GD Proyect
 > * I'm an Astronomy, physic and mathematic fan, I play videogames too, but by the moment I'm concentrated in the course because I wish to be Mecanic or aeroespacial engineer
 > 
@@ -39,7 +39,7 @@
 >![Candela Fernandez](/images/candelafernandez.jpg)
 
 > Name: Fernández Sáez, Candela
-> * Instagram:@candeelasaezz 
+> * Instagram: @candeelasaezz 
 > 
 
 
@@ -50,7 +50,7 @@
 
 > ![Claudio Gea](/images/CGL.png)
 
-> Name: Claudio Gea López
+> Name: Gea López, Claudio
 > * Twitter: @claudiio.28
 > * Gamer and fan of mtotorsports.
 > 
@@ -60,8 +60,8 @@
 
 > ![Ivan Martinez Hernandez](/images/IMH.jpg)
 
-> Name: Ivan Martinez Hernandez
-> * Instagram: Ivanmartiineez_ 
+> Name: Martínez Hernández, Iván
+> * Instagram: @ivanmartiineez_ 
 > 
 
 
@@ -81,8 +81,8 @@
 
 > ![Pablo Antonio Polám García](/images/PAPG.png)
 
-> Name: Pablo Antonio Polán García
-> * Instagram: peibol_pg
+> Name: Polán García, Pablo Antonio
+> * Instagram: @peibol_pg
 > * Student and athlete
 > 
 
@@ -92,7 +92,7 @@
 
 > ![Alba Pujante](/images/albapujante2.jpg).
 
-> Name: Alba Pujante García
+> Name: Pujante García, Alba
 > * Instagram: @alba_pujante
 > * Future scientific eager to learn.
 > 
@@ -101,9 +101,10 @@
 
 > ![Carmen Romera Perez](/images/carmenromera.png)
 
-> Name: Romera
-> * Twitter&Instagram:@tellmecarmen
-> * . Scientist in the making :)
+> Name: Romera Pérez, Carmen
+> * Twitter: @tellmecarmen
+> * Instagram: @tellmecarmen
+> * Scientist in the making :)
 > 
 
 
@@ -111,17 +112,17 @@
 
 >  ![Jose María Ruiz González](/images/JMRuiz.png)
 
-> Name: Ruiz G
+> Name: Ruiz González, Jose María
 > * Twitter: @josemarg_05 
->  Instagram: @josemarg_05
+> * Instagram: @josemarg_05
 > 
 
 
 
 > ![Cristina Ruiz Silvente](/images/CRS.jpeg)
 
-> Name: Ruiz S, C
-> * Twitter: @CristinaRuizz
+> Name: Ruiz Silvente, Cristina
+> * Twitter: @cristinaruizz
 > 
 
 
@@ -130,7 +131,7 @@
 
 > ![Eduardo Tigeras Mirete](/images/20210120_124923.jpg)
 > 
-> Name: Eduardo Tigeras Mirete 
+> Name: Tigeras Mirete, Eduardo
 > * Twitter: @Zuamun
 > * Sportsman, gamer and programmer in a future
 > 
@@ -141,7 +142,7 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 
-> Name: Ginés Ruiz Bueno
+> Name: Ruiz Bueno, Ginés
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
 > 
