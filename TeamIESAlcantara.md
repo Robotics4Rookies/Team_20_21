@@ -20,8 +20,10 @@
 
 
 
-> 
+>
 ![AndresDuuqe](/images/AndresDuque.jpg)
+>
+
 > Name: Duque Andrés
 > * Instagram: andresduquee__
 > * IES Alcantara's student studying 1º Bachillerato of science GD Proyect
@@ -34,6 +36,8 @@
 
 
 >![Candela Fernandez](/images/candelafernandez.jpg)
+>
+
 > Name: Fernández Sáez, Candela
 > * Instagram:@candeelasaezz 
 
@@ -65,7 +69,8 @@
 
 
 
-![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg)
+![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg
+
 > Name: Martínez Miñano, Antonio 
 > * Twitter: 
 
@@ -103,8 +108,8 @@
 >  ![Jose María Ruiz González](/images/JMRuiz.png)
 
 > Name: Ruiz G
-> * Twitter: @josemarg_05  instagram: @josemarg_05   tiktok:@joseruizzz05   facebook:Jose Maria Ruiz Gonzalez
-> * .
+> * Twitter: @josemarg_05 
+>  Instagram: @josemarg_05
 > 
 
 
@@ -119,6 +124,7 @@
 
 
 > ![Eduardo Tigeras Mirete](/images/20210120_124923.jpg)
+> 
 > Name: Eduardo Tigeras Mirete 
 > * Twitter: @Zuamun
 > * Sportsman, gamer and programmer in a future
