@@ -9,32 +9,13 @@
 
 
 
-
-> Amante
-
-> Name: 
-> * Twitter: 
-> * 
-
-
-> ![Andrea Bajes Guevara]
-
-
-> Bajes Guevara, Andrea
-
-> Name: 
-> * Twitter: 
-> * 
-
-
-> Ballester Mosquera, José
+> 
 
 ![Jose Ballester Mosquera](/images/imageedit_3_8949590312.jpg)
 
 
-> Name: 
-> * Twitter: 
-> * .
+> Name: Ballester Mosquera, José
+
 
 
 > Candel
