@@ -18,28 +18,6 @@
 
 
 
-> Cremades
-
-> Name: 
-> * Twitter: 
-> * .
-
-
-
-> Díaz
-
-> Name: 
-> * Twitter: 
-> * .
-
-
-
-> 
-
-> Name: Dragusín
-> * Twitter: 
-> * .
-
 
 
 > 
@@ -51,29 +29,13 @@
 
 
 
-> 
-
-> Name: Espinosa
-> * Twitter: 
-> * .
 
 
-> 
-
-> Name: Fernández Sáez, Candela
 
 
 >![Candela Fernandez](/images/candelafernandez.jpg)
+>Name: Fernández Sáez, Candela
 > * Instagram:@candeelasaezz 
-> * Twitter: 
-> * .
-
-
-> 
-
-> Name: García
-> * Twitter: 
-> * .
 
 
 
@@ -89,68 +51,26 @@
 > * Gamer and fan of mtotorsports.
 
 
-> 
-
-> Name: González
-> * Twitter: 
-> * .
-
-
-
-> 
-
-> Name: Guillén
-> * Twitter: 
-> * .
 
 
 > ![Ivan Martinez Hernandez](/images/IMH.jpg)
 
 > Name: Ivan Martinez Hernandez
 > * Instagram: Ivanmartiineez_ 
-> * .
+> * 
 
 
 
-> 
 
-> Name: Martínez Miñano, Antonio 
+
 
 
 ![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg)
+> Name: Martínez Miñano, Antonio 
 > * Twitter: 
-> * .
-
-
-> 
-
-> Name: Martínez M
-
-> * Twitter: 
-> * .
 
 
 
-> 
-
-> Name: Menchón M
-> * Twitter: 
-> * .
-
-
-> 
-
-> Name: Moreno M
-> * Twitter: 
-> * .
-
-
-
-> 
-
-> Name: Moreno R.
-> * Twitter: 
-> * .
 
 
 > ![Pablo Antonio Polám García](/images/PAPG.png)
@@ -161,11 +81,6 @@
 
 
 
-> ![Carmen Romera Perez](/images/imageedit_3_6970207972.jpg)
-
-> Name: Ginés Pujante
-> * Twitter: 
-> * .
 
 
 > ![Alba Pujante](/images/albapujante2.jpg).
@@ -182,12 +97,6 @@
 > * Twitter&Instagram:@tellmecarmen
 > * . Scientist in the making :)
 
-
-> 
-
-> Name: Rufete
-> * Twitter:
-> * .
 
 
 
@@ -207,38 +116,12 @@
 
 
 
-> 
-
-> Name: Ruiz S, J
-> * Twitter: 
-> * .
-
-
-> 
-
-> Name: Tallón
-> * Twitter: 
-> * .
-
 
 
 > ![Eduardo Tigeras Mirete](/images/20210120_124923.jpg)
-
-
 > Name: Eduardo Tigeras Mirete 
-
-
 > * Twitter: @Zuamun
 > * Sportsman, gamer and programmer in a future
-
-
-> 
-
-> Name: Tomás
-> * Twitter: 
-> * .
-
-
 
 
 
