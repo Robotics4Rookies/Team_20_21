@@ -28,6 +28,7 @@
 > * Instagram: andresduquee__
 > * IES Alcantara's student studying 1º Bachillerato of science GD Proyect
 > * I'm an Astronomy, physic and mathematic fan, I play videogames too, but by the moment I'm concentrated in the course because I wish to be Mecanic or aeroespacial engineer
+> 
 
 
 
@@ -36,11 +37,10 @@
 
 
 >![Candela Fernandez](/images/candelafernandez.jpg)
->
 
 > Name: Fernández Sáez, Candela
 > * Instagram:@candeelasaezz 
-
+> 
 
 
 
@@ -53,6 +53,7 @@
 > Name: Claudio Gea López
 > * Twitter: @claudiio.28
 > * Gamer and fan of mtotorsports.
+> 
 
 
 
@@ -61,7 +62,7 @@
 
 > Name: Ivan Martinez Hernandez
 > * Instagram: Ivanmartiineez_ 
-> * 
+> 
 
 
 
@@ -69,10 +70,10 @@
 
 
 
-![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg
+![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg)
 
 > Name: Martínez Miñano, Antonio 
-> * Twitter: 
+>
 
 
 
@@ -83,6 +84,7 @@
 > Name: Pablo Antonio Polán García
 > * Instagram: peibol_pg
 > * Student and athlete
+> 
 
 
 
@@ -93,6 +95,7 @@
 > Name: Alba Pujante García
 > * Instagram: @alba_pujante
 > * Future scientific eager to learn.
+> 
 
 
 
@@ -101,6 +104,7 @@
 > Name: Romera
 > * Twitter&Instagram:@tellmecarmen
 > * . Scientist in the making :)
+> 
 
 
 
@@ -118,6 +122,7 @@
 
 > Name: Ruiz S, C
 > * Twitter: @CristinaRuizz
+> 
 
 
 
@@ -128,6 +133,7 @@
 > Name: Eduardo Tigeras Mirete 
 > * Twitter: @Zuamun
 > * Sportsman, gamer and programmer in a future
+> 
 
 
 
@@ -138,6 +144,7 @@
 > Name: Ginés Ruiz Bueno
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
+> 
 
 
 
