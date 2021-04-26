@@ -34,7 +34,7 @@
 
 
 >![Candela Fernandez](/images/candelafernandez.jpg)
->Name: Fernández Sáez, Candela
+> Name: Fernández Sáez, Candela
 > * Instagram:@candeelasaezz 
 
 
