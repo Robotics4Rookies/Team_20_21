@@ -9,99 +9,39 @@
 
 
 
-
-> Amante
-
-> Name: 
-> * Twitter: 
-> * 
-
-
-> ![Andrea Bajes Guevara](/images/FotoEjemploAndreaBajes.jfif)
-
-
-> Bajes Guevara, Andrea
-
-> Name: 
-> * Twitter: 
-> * 
-
-
-> Ballester Mosquera, José
+> 
 
 ![Jose Ballester Mosquera](/images/imageedit_3_8949590312.jpg)
 
 
-> Name: 
-> * Twitter: 
-> * .
-
-
-> Candel
-
-> Name: 
-> * Twitter: 
-> * .
+> Name: Ballester Mosquera, José
+> Studying 1st of Bachillerato of science at IES Alcantara.
 
 
 
-> Cremades
-
-> Name: 
-> * Twitter: 
-> * .
 
 
-
-> Díaz
-
-> Name: 
-> * Twitter: 
-> * .
-
-
-
-> 
-
-> Name: Dragusín
-> * Twitter: 
-> * .
-
-
-
-> 
+>
 ![AndresDuuqe](/images/AndresDuque.jpg)
-> Name: Duque Andrés
-> * Instagram: andresduquee__
-> * IES Alcantara's student studying 1º Bachillerato of science GD Proyect
-> * I'm an Astronomy, physic and mathematic fan, I play videogames too, but by the moment I'm concentrated in the course because I wish to be Mecanic or aeroespacial engineer
+>
 
-
-
+> Name: Duque Durán, Andrés
+> * Instagram: @andresduquee__
+> * Student at IES Alcantara  doing 1st of Bachillerato of science, GD Proyect
+> * I'm an Astronomy, Physics and Math enjoyer, I play videogames too, but by the moment I'm focused in the course because I wish to be a mechanic or aeroespacial engineer.
 > 
 
-> Name: Espinosa
-> * Twitter: 
-> * .
 
 
-> 
 
-> Name: Fernández Sáez, Candela
+
 
 
 >![Candela Fernandez](/images/candelafernandez.jpg)
-> * Instagram:@candeelasaezz 
-> * Twitter: 
-> * .
 
-
-> 
-
-> Name: García
-> * Twitter: 
-> * .
-
+> Name: Fernández Sáez, Candela
+> * Instagram: @candeelasaezz 
+> * Studying 1st of Bachillerato of science.
 
 
 
@@ -111,103 +51,67 @@
 
 > ![Claudio Gea](/images/CGL.png)
 
-> Name: Claudio Gea López
+> Name: Gea López, Claudio
 > * Twitter: @claudiio.28
-> * Gamer and fan of mtotorsports.
-
-
+> * Student of 4th of ESO IES Alcantara
+> * Gamer and fan of motosports.
 > 
 
-> Name: González
-> * Twitter: 
-> * .
 
-
-
-> 
-
-> Name: Guillén
-> * Twitter: 
-> * .
 
 
 > ![Ivan Martinez Hernandez](/images/IMH.jpg)
 
-> Name: Ivan Martinez Hernandez
-> * Instagram: Ivanmartiineez_ 
-> * .
+> Name: Martínez Hernández, Iván
+> * Instagram: @ivanmartiineez_ 
+> * Student of 4th of science at IES Alcantara 
+> * Lover of technology, good with computers and videogame player.
 
 
 
-> 
 
-> Name: Martínez Miñano, Antonio 
+
 
 
 ![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg)
-> * Twitter: 
-> * .
 
-
-> 
-
-> Name: Martínez M
-
-> * Twitter: 
-> * .
+> Name: Martínez Miñano, Antonio 
+>
 
 
 
-> 
-
-> Name: Menchón M
-> * Twitter: 
-> * .
-
-
-> 
-
-> Name: Moreno M
-> * Twitter: 
-> * .
-
-
-
-> 
-
-> Name: Moreno R.
-> * Twitter: 
-> * .
 
 
 > ![Pablo Antonio Polám García](/images/PAPG.png)
 
-> Name: Pablo Antonio Polán García
-> * Instagram: peibol_pg
-> * Student and athlete
+> Name: Polán García, Pablo Antonio
+> * Instagram: @peibol_pg
+> * Doing 4th of ESO  at IES Alcantara
+> * Student and athlete. Video games player. 
+> 
 
 
 
-> ![Carmen Romera Perez](/images/imageedit_3_6970207972.jpg)
-
-> Name: Ginés Pujante
-> * Twitter: 
-> * .
 
 
 > ![Alba Pujante](/images/albapujante2.jpg).
 
-> Name: Alba Pujante García
+> Name: Pujante García, Alba
 > * Instagram: @alba_pujante
-> * Future scientific eager to learn.
+> * Studying 4th of ESO of science at IES Alcantara.
+> * Future scientific eager to learn. Lover of animals and wildlife as well as technology.
+> 
 
 
 
 > ![Carmen Romera Perez](/images/carmenromera.png)
 
-> Name: Romera
-> * Twitter&Instagram:@tellmecarmen
-> * . Scientist in the making :)
+
+> Name: Romera Pérez, Carmen
+> * Twitter: @tellmecarmen
+> * Instagram: @tellmecarmen
+> * Studying at IES Alcantara, currently in 4th of ESO.
+> * Scientist in the making, 
 
 
 
@@ -215,52 +119,33 @@
 
 >  ![Jose María Ruiz González](/images/JMRuiz.png)
 
-> Name: Ruiz G
-> * Twitter: @josemarg_05  instagram: @josemarg_05   tiktok:@joseruizzz05   facebook:Jose Maria Ruiz Gonzalez
-> * .
-> 
+> Name: Ruiz González, Jose María
+> * Twitter: @josemarg_05 
+> * Instagram: @josemarg_05
+> * Student of 4th of ESO at IES Alcantara.
+> * My dream is being a military doctor and learning more about technology.
 
 
 
 > ![Cristina Ruiz Silvente](/images/CRS.jpeg)
 
-> Name: Ruiz S, C
-> * Twitter: @CristinaRuizz
+> Name: Ruiz Silvente, Cristina
+> * Twitter: @cristinaruizz
+> * Instagram: @cristina_ruiz_824
+> * Studying 4th of ESO at IES Alcantara.
+> * I like learning new things, I like sports and I want to be a scientist in the future
 
 
-
-> 
-
-> Name: Ruiz S, J
-> * Twitter: 
-> * .
-
-
-> 
-
-> Name: Tallón
-> * Twitter: 
-> * .
 
 
 
 > ![Eduardo Tigeras Mirete](/images/20210120_124923.jpg)
-
-
-> Name: Eduardo Tigeras Mirete 
-
-
-> * Twitter: @Zuamun
-> * Sportsman, gamer and programmer in a future
-
-
 > 
-
-> Name: Tomás
-> * Twitter: 
-> * .
-
-
+> Name: Tigeras Mirete, Eduardo
+> * Twitter: @Zuamun
+> * Studying 4th of ESO at IES Alcantara.
+> * Sportsman, gamer and programmer in a future
+> 
 
 
 
@@ -268,9 +153,10 @@
 > ![Ginés Ruiz Bueno](/images/GRBGD.png)
 
 
-> Name: Ginés Ruiz Bueno
+> Name: Ruiz Bueno, Ginés
 > * Twitter: @GRuizBueno
 > * Lover of technology and the use of new learning methodologies.
+> 
 
 
 
