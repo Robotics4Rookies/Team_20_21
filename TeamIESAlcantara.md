@@ -15,6 +15,7 @@
 
 
 > Name: Ballester Mosquera, José
+> Studying 1º of Bachillerato of science at IES Alcantara
 
 
 
@@ -27,7 +28,7 @@
 > Name: Duque Durán, Andrés
 > * Instagram: @andresduquee__
 > * Student at IES Alcantara  doing 1º of Bachillerato of science, GD Proyect
-> * I'm an Astronomy, physic and mathematics fan, I play videogames too, but by the moment I'm focused in the course because I wish to be a mechanic or aeroespacial engineer
+> * I'm an Astronomy, Physics and Math enjoyer, I play videogames too, but by the moment I'm focused in the course because I wish to be a mechanic or aeroespacial engineer
 > 
 
 
@@ -40,7 +41,7 @@
 
 > Name: Fernández Sáez, Candela
 > * Instagram: @candeelasaezz 
-> 
+> * Studying 1th  Bachillerato of science
 
 
 
@@ -52,7 +53,8 @@
 
 > Name: Gea López, Claudio
 > * Twitter: @claudiio.28
-> * Gamer and fan of motosports.
+> * Student of 4th of ESO IES Alcantara
+> * Gamer and fan of motosports
 > 
 
 
@@ -62,7 +64,8 @@
 
 > Name: Martínez Hernández, Iván
 > * Instagram: @ivanmartiineez_ 
-> 
+> * Student of 4th of O of science at IES Alcantara 
+> * Lover of technology, good with computers and videogame player.
 
 
 
@@ -83,7 +86,8 @@
 
 > Name: Polán García, Pablo Antonio
 > * Instagram: @peibol_pg
-> * Student and athlete
+> * Doing 4ºth 
+> * Student and athlete. Video games player. 
 > 
 
 
