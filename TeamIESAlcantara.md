@@ -26,8 +26,8 @@
 
 > Name: Duque Durán, Andrés
 > * Instagram: @andresduquee__
-> * IES Alcantara's student studying 1º Bachillerato of science GD Proyect
-> * I'm an Astronomy, physic and mathematic fan, I play videogames too, but by the moment I'm concentrated in the course because I wish to be Mecanic or aeroespacial engineer
+> * Student at IES Alcantara  doing 1º of Bachillerato of science, GD Proyect
+> * I'm an Astronomy, physic and mathematics fan, I play videogames too, but by the moment I'm focused in the course because I wish to be a mechanic or aeroespacial engineer
 > 
 
 
@@ -52,7 +52,7 @@
 
 > Name: Gea López, Claudio
 > * Twitter: @claudiio.28
-> * Gamer and fan of mtotorsports.
+> * Gamer and fan of motosports.
 > 
 
 
