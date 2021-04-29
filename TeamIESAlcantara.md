@@ -17,6 +17,7 @@
 > Name: Ballester Mosquera, José
 > Instagram: _josebm_
 > I am Studying 1st of Bachillerato of science at IES Alcantara.
+> 
 > Not only am I a technology lover but also I am so ambicious and I join in every project it faces to me
 
 
