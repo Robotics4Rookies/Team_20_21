@@ -21,7 +21,7 @@
 > 
 > * Not only am I a technology lover but also I am so ambicious and I join in every project it faces to me
 
-
+> <img src="/images/Ballester2.0.png" alt="drawing" width="200" height="50"/>
 
 
 >
