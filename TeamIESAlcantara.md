@@ -52,8 +52,8 @@
 
 
 
->![Candela Fernandez](/images/Candela.jpg)
 > <img src="/images/Candela.jpg" alt="drawing" width="200" height="200"/>
+
 
 > Name: Fernández Sáez, Candela
 > * Instagram: @candeelasaezz 
