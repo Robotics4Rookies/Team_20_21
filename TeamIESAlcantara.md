@@ -93,6 +93,7 @@
 ![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg)
 
 > * Name: Martínez Miñano, Antonio 
+> * Instagram: anton1o_04
 > * I am Studying 1st of Bachillerato of science at IES Alcantara.
 > * I am learning with Candela how to create a bot to teach people my knowledge of bots
 
