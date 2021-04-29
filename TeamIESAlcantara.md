@@ -11,7 +11,7 @@
 
 > 
 
-![Jose Ballester Mosquera](/images/Ballestwer2.0.png)
+![Jose Ballester Mosquera](/images/Ballester2.0.png)
 
 
 > * Name: Ballester Mosquera, José
