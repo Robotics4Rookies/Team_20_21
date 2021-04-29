@@ -11,15 +11,26 @@
 
 > 
 
-![Jose Ballester Mosquera](/images/Ballester2.0.png)
+![Jose Ballester Mosquera](/images/BallesterJose.png)
 
 
-> * Name: Ballester Mosquera, José
-> * Instagram:  _ josebm _
+> *Name: Ballester Mosquera, José
+> *Instagram: ._josebm_.
+> *I am Studying 1st of Bachillerato of science at IES Alcantara.
 > 
-> * I am Studying 1st of Bachillerato of science at IES Alcantara.
+> *Not only am I a technology lover but also I am so ambicious and I join in every project it faces to me
+
+
+
+<img src="/images/fotogines.jpg" alt="drawing" width="150" height="150"/>
+
+
+> * Name: Pujante Hernández, Ginés
+> * Instagram: gineso85
+> * I am Studying 1st of Bachillerato of social sciences at IES Alcantara and projects of DG.
 > 
-> * Not only am I a technology lover but also I am so ambicious and I join in every project it faces to me
+> * "Per aspera ad astra"
+
 
 
 
