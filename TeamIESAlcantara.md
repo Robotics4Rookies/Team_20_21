@@ -14,12 +14,12 @@
 ![Jose Ballester Mosquera](/images/BallesterJose.png)
 
 
-> *Name: Ballester Mosquera, José
-> *Instagram:  _ josebm _
+> * Name: Ballester Mosquera, José
+> * Instagram:  _ josebm _
 > 
-> *I am Studying 1st of Bachillerato of science at IES Alcantara.
+> * I am Studying 1st of Bachillerato of science at IES Alcantara.
 > 
-> *Not only am I a technology lover but also I am so ambicious and I join in every project it faces to me
+> * Not only am I a technology lover but also I am so ambicious and I join in every project it faces to me
 
 
 
