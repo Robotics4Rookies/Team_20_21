@@ -58,6 +58,7 @@
 > Name: Fernández Sáez, Candela
 > * Instagram: @candeelasaezz 
 > * Studying 1st of Bachillerato of science.
+> * I am learning with Antonio how to create a bot to teach people my knowledge of bots
 
 
 
@@ -91,8 +92,8 @@
 
 ![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg)
 
-> Name: Martínez Miñano, Antonio 
->
+> * Name: Martínez Miñano, Antonio 
+> * I am learning with Candela how to create a bot to teach people my knowledge of bots
 
 
 
