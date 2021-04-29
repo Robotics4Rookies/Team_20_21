@@ -52,7 +52,7 @@
 
 
 
-> <img src="/images/Candela.jpg" alt="drawing" width="200" height="200"/>
+> <img src="/images/Candela.jpg" alt="drawing" width="250" height="200"/>
 
 
 > Name: Fernández Sáez, Candela
