@@ -11,14 +11,16 @@
 
 > 
 
-![Jose Ballester Mosquera](/images/BallesterJose.png)
+![Jose Ballester Mosquera](/images/Ballestwer2.0.png)
 
 
-> *Name: Ballester Mosquera, José
-> *Instagram: ._josebm_.
-> *I am Studying 1st of Bachillerato of science at IES Alcantara.
+> * Name: Ballester Mosquera, José
 > 
-> *Not only am I a technology lover but also I am so ambicious and I join in every project it faces to me
+> * Instagram: ._josebm_.
+> 
+> * I am Studying 1st of Bachillerato of science at IES Alcantara.
+> 
+> * Not only am I a technology lover but also I am so ambicious and I join in every project it faces to me
 
 
 
@@ -50,7 +52,7 @@
 
 
 
->![Candela Fernandez](/images/candelafernandez.jpg)
+>![Candela Fernandez](/images/Candela.jpg)
 
 > Name: Fernández Sáez, Candela
 > * Instagram: @candeelasaezz 
