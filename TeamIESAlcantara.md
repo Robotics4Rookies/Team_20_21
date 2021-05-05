@@ -63,6 +63,15 @@
 
 
 
+> ![Julian García Navarro](/images/CGL.png)
+
+> Name: Gea López, Claudio
+> * Twitter: @claudiio.28
+> * Student of 4th of ESO IES Alcantara
+> * Gamer and fan of motosports.
+> 
+
+
 
 
 
