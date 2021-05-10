@@ -25,10 +25,10 @@ Imagen
 
 Imagen
 
--Por último, en la pestaña quese nos ha abierto, deslizaremos hacia abajo y elegiremos la opción usar **DialogFlow** para programar el bot.
+-Por último, en la pestaña que se nos ha abierto, deslizaremos hacia abajo y elegiremos la opción usar **DialogFlow** para programar el bot.
 
 Imagen
 
-
+-A continuación,(tras un pequeño periodo de carga) debe haber cargado la consola de actions donde empezaremos a configurar el bot y para ello nos iremos a la pestaña que se llama *Develop* e introduciremos el nombre del bot donde pone *Display Name* y elegiremos el tipo de voz del bot. 
 
 
