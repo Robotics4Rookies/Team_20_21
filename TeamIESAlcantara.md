@@ -29,8 +29,7 @@
 
 > * Name: Pujante Hernández, Ginés
 > * Instagram: @gineso85
-> * I am Studying 1st of Bachillerato of social sciences at IES Alcantara and projects of DG.
-> 
+> * I am Studying 1st of Bachillerato of Social Sciences at IES Alcantara and projects of DG.
 > * "Per aspera ad astra"
 
 
@@ -58,7 +57,7 @@
 > Name: Fernández Sáez, Candela
 > * Instagram: @candeelasaezz 
 > * Studying 1st of Bachillerato of science.
-> * I am learning with Antonio how to create a bot to teach people my knowledge of bots
+> * I am learning with Antonio how to create a bot to teach people my knowledge about bots.
 
 
 
@@ -73,15 +72,6 @@
 
 
 
-
-
-> ![Claudio Gea](/images/CGL.png)
-
-> Name: Gea López, Claudio
-> * Twitter: @claudiio.28
-> * Student of 4th of ESO IES Alcantara
-> * Gamer and fan of motosports.
-> 
 
 
 
@@ -102,9 +92,9 @@
 ![Antonio Martinez Miñano](/images/imageedit_1_3829808925.jpg)
 
 > * Name: Martínez Miñano, Antonio 
-> * Instagram: anton1o_04
+> * Instagram: @anton1o_04
 > * I am Studying 1st of Bachillerato of science at IES Alcantara.
-> * I am learning with Candela how to create a bot to teach people my knowledge of bots
+> * I am learning with Candela how to create a bot to teach people my knowledge about bots.
 
 
 
@@ -139,7 +129,7 @@
 > * Twitter: @tellmecarmen
 > * Instagram: @tellmecarmen
 > * Studying at IES Alcantara, currently in 4th of ESO.
-> * Scientist in the making, physics lover.
+> * Scientist in the making, physics enjoyer.
 
 
 
@@ -161,7 +151,7 @@
 > * Twitter: @cristinaruizz
 > * Instagram: @cristina_ruiz_824
 > * Studying 4th of ESO at IES Alcantara.
-> * I like learning new things, I like sports and I want to be a scientist in the future
+> * I like learning new things, I like sports and I aspire to be a scientist in the future.
 
 
 
@@ -172,7 +162,7 @@
 > Name: Tigeras Mirete, Eduardo
 > * Twitter: @Zuamun
 > * Studying 4th of ESO at IES Alcantara.
-> * Sportsman, gamer and programmer in a future
+> * Sportsman, gamer and programmer in a future.
 > 
 
 
