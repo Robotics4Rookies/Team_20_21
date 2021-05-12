@@ -132,7 +132,7 @@
 
 
 
-> ![Carmen Romera Perez](/images/carmenromera.jpg.jpg)
+> ![Carmen Romera Perez](/images/carmenromera.jpg)
 
 
 > Name: Romera Pérez, Carmen
