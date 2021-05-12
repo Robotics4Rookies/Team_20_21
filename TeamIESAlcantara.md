@@ -16,11 +16,11 @@
 
 > * Name: Ballester Mosquera, José
 > 
-> * Instagram: ._josebm_.
+> * Instagram: @josebm_
 > 
 > * I am Studying 1st of Bachillerato of science at IES Alcantara.
 > 
-> * Not only am I a technology lover but also I am so ambicious and I join in every project it faces to me
+> * Not only am I a technology lover but also I am so ambicious and I join in every project that faces me.
 
 
 
@@ -28,7 +28,7 @@
 
 
 > * Name: Pujante Hernández, Ginés
-> * Instagram: gineso85
+> * Instagram: @gineso85
 > * I am Studying 1st of Bachillerato of social sciences at IES Alcantara and projects of DG.
 > 
 > * "Per aspera ad astra"
@@ -132,14 +132,14 @@
 
 
 
-> ![Carmen Romera Perez](/images/carmenromera.png)
+> ![Carmen Romera Perez](/images/carmenromera.jpg)
 
 
 > Name: Romera Pérez, Carmen
 > * Twitter: @tellmecarmen
 > * Instagram: @tellmecarmen
 > * Studying at IES Alcantara, currently in 4th of ESO.
-> * Scientist in the making, 
+> * Scientist in the making, physics lover.
 
 
 
