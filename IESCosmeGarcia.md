@@ -99,11 +99,11 @@
 > 
 > ![Mario San Antonio](/images/Mariosanan.jpeg)
 > 
-> Name: Brian
-> * Twitter: @GRuizBueno
-> * Lover of technology and the use of new learning methodologies.
+> Name: Bryan Chavez
+> * Twitter: @bryan962
+> * I like to program and desing web pages.
 
-> ![Ginés Ruiz Bueno](/images/GRBGD.png)
+> ![iibryanch962](https://github.com/Robotics4Rookies/Team_20_21/blob/main/images/Bryan%20Chavez.jpg)
 
 > Name: Carmen Mendez
 > * Twitter: @carmenmendezprofe
