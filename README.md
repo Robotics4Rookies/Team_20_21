@@ -7,7 +7,8 @@
 # Project Team: [here](Team.md)
 
 <a href="Team.md">
-  <img src="/images/teamAlcantara.jpeg">
+  <img src="/images/Poster Cosme García.jpg
+">
 </a>
 
 ## Team4Rookies community 
